@@ -11,7 +11,7 @@
             "github_handle": "signladmin"
         },
         "about": {
-            "me": "...",
+            "me": "A single pool operator focusing on decentralization and low power consumption.",
             "server": "Raspberry Pi based pool. Under 40 watts total. We will expand relays as we grow."
         }
     },
